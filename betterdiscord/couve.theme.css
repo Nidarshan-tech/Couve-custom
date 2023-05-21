@@ -13,7 +13,7 @@
   --version: "2.3.0";
 
   /* Colors */
-  --main-color: #419e85;
+  --main-color: #7a0000;
 
   /* Borders */
   --avatar-radius: 8px;
@@ -22,11 +22,11 @@
 /* Dark/Light vars */
 .theme-dark {
   /* BGs */
-  --background-primary: #252a3e;
-  --background-secondary: #1e2337;
-  --background-secondary-alt: #1c2438;
-  --background-secondary-alt-alt: #1b1d31;
-  --background-tertiary: #060c24;
+  --background-primary: #000000;
+  --background-secondary: #000000;
+  --background-secondary-alt: #000000;
+  --background-secondary-alt-alt: #000000;
+  --background-tertiary: #000000;
 
   --deprecated-store-bg: var(--background-primary);
   --background-floating: var(--background-secondary);
@@ -35,14 +35,14 @@
   --input-background: var(--background-secondary);
   --modal-background: var(--background-primary);
 
-  --colortransparency: #0003;
+  --colortransparency: rgba(0, 0, 0, 0.2);
 
   /* Cards */
-  --card: #212332;
+  --card: #000000;
 
   /* Other stuff */
-  --textcolor: #fff;
-  --epicshadow1: #fff3;
+  --textcolor: #490000;
+  --epicshadow1: rgba(92, 0, 0, 0.2);
 
   /* Font */
   --font-display: var(--font-primary) !important;
