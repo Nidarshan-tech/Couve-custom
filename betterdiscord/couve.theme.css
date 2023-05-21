@@ -11,6 +11,8 @@
 /* Settings */
 :root {
   --version: "2.3.0";
+      --background: url('https://c4.wallpaperflare.com/wallpaper/795/41/126/evangelion-end-of-evangelion-anime-neon-genesis-evangelion-wallpaper-preview.jpg');
+    --activetext-colour: white;
 
   /* Colors */
   --main-color: #7a0000;
